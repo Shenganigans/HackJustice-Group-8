@@ -1,7 +1,7 @@
 body {
    /*background-image: url("splash_screen.jpg");
    background-size:cover;*/
-   background: url(splash_screen.jpg) no-repeat center center fixed; 
+   background: url(images/refugee_pic.jpg) no-repeat center center fixed; 
    -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
