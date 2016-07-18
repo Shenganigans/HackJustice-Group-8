@@ -1,0 +1,36 @@
+body {
+   /*background-image: url("splash_screen.jpg");
+   background-size:cover;*/
+   background: url(splash_screen.jpg) no-repeat center center fixed; 
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+}
+
+#index_heading { 
+   align: "middle";
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translateX(-50%) translateY(-50%);
+   color: #fff;
+   background-color: #ffa500;
+   opacity: 0.6;
+}
+
+#index_button {
+   align: "middle";
+   position: absolute;
+   top: 60%;
+   left: 50%;
+   transform: translateX(-50%) translateY(-50%);
+}
+
+#index_logo {
+   align: "middle";
+   position: absolute;
+   top: 40%;
+   left: 50%;
+   transform: translateX(-50%) translateY(-50%);
+}
